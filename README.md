@@ -17,9 +17,9 @@ El proyecto está pensado para aprender y demostrar POO, manejo de archivos JSON
 
 ## Instalación y ejecución (pasos rápidos)
 
-# clonar el repositorio
+## clonar el repositorio
 git clone https://github.com/martinjimenez04/gestor-tareas-python.git
 cd gestor-tareas-python
 
-# ejecutar
+## ejecutar
 python main.py
